@@ -92,4 +92,12 @@ An N-Channel MOSFET is a type of MOSFET in which the channel of the MOSFET is co
 
 Use TinkerCAD to get the basic design.
 Resources:http://www.learningaboutelectronics.com/Articles/N-Channel-MOSFETs
+## 4. Design a parametric box 
+    Design a parametric box with threads and also design various lids with snap joints and slide joints.Assemble and animate them
+The dimensions are 9*7*8 cm
+       https://youtu.be/YCUkFGI3RZI?si=ACupWnKAWe1Yyjii
+       https://youtu.be/KL1aj16ynf4?si=BWiZeOpbvO1XJBST
+       https://youtu.be/HMtLqm5TkGE?si=7eEedOBfIWkW4O1J
+       https://youtu.be/FeCzb8eVsRw?si=gHwdmpaGBs9kL820
+
 
