@@ -127,6 +127,7 @@ program to the ESP32. Learn to configure the IDE to upload code to an ESP32.
 
 (Soldering is to be done in presence of a coordinator)
 
+
 Learn about the soldering equipment present in our lab, the solder, the soldering iron, soldering
 wick, flux, etc. Learn to use them and perform basic soldering on a perf board, for example a
 LED circuit in the presence of a coordinator and document the same.
@@ -158,3 +159,6 @@ Take part in any technical event, inter or intra college and submit the issued c
 participation.
 
 Enroll for a MOOC and complete the course.
+## TASK 16: Datasheets report writing
+
+Task Description: Study the datasheet of any one of the above and write a report on it. Specify about the ICs used in L293D, PWM, H-bridge etc. In case of MQ 135, specify the calibrations for different gases and the Freundlich Absorption Theorem Graph.
